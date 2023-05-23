@@ -1,4 +1,4 @@
-# gophish-dockerfile-with-persistent-storage
+# Gophish Dockerfile with Persistent Storage as Docker Volumes
 
 Why i created this Dockerfile:
 1. For building Gophish from source to have latest possible version.
